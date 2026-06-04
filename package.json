@@ -1,5 +1,5 @@
 {
-  "name": "@nexacon/react-native-sdk",
+  "name": "nexacon-react-native-sdk",
   "version": "1.0.0",
   "description": "React Native SDK for Nexacon API - Authentication, Messaging, Calls, and IoT",
   "main": "dist/index.js",
