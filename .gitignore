@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+coverage/
+.nyc_output/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React Native
+ios/Pods/
+ios/build/
+*.xcworkspace
+!default.xcworkspace
+ios/.xcode.env.local
+android/app/build/
+android/.gradle/
